@@ -1,0 +1,33 @@
+Stock Transfer,Product,Title,SKU,Barcode,Retail Price,Cost,Average Cost,minimum_stock_quantity,reorder_point,Text 3,Product Type,Available,Quantity,Status
+1415,Crest Short-Sleeve Button-Down | Salt Arrow,Salt Arrow / L,V150SARLRG,843084137978,39.0,13.05,13.05,"","","",Tops,-8,1,received
+1415,Strato Tech Tank | Navy Heather,Navy Heather / L,V173HNVLRG,843084138975,40.0,10.2,,"","","",Tanks,0,1,received
+1415,Rib Crop Tank | Terracotta,Terracotta / S,VW189TERSML,843084188000,58.0,,,,,,Tanks,-1,1,received
+1415,Long-Sleeve Solstice Tee | Clay Heather,Clay Heather / XS,VW240HCAXSM,843084174423,41.0,10.0,10.0,,,,Tops,0,1,received
+1415,Cove Tank | Burnt Clay,Burnt Clay / M,VW192BCYMED,843084188369,48.0,,,,,,Tanks,5,1,received
+1415,The Rise The Shine Tank | Mauve,Mauve / M,VW952MVEMED,843084175529,25.0,8.0,,,,,Tanks,0,1,received
+1415,Lux Romper | Charcoal Heather,Charcoal Heather / M,VW426HCCMED,843084174799,94.0,20.0,20.0,,,,Jumpsuits & Dresses,1,1,received
+1415,All Day Romper | Oregano Heather,Oregano Heather / S,VW424HORSML,843084192755,98.0,,,,,,Jumpsuits & Dresses,1,1,syncing
+1415,Lux Romper | Ink Heather,Ink Heather / L,VW426HINLRG,840159737682,94.0,,,,,,Jumpsuits & Dresses,1,1,syncing
+1415,Performance Jogger | Charcoal Shibori,Charcoal Shibori / XS,VW303CSHXSM,843084189397,84.0,,,,,,Joggers,0,1,syncing
+1415,Performance Jogger | Charcoal Shibori,Charcoal Shibori / S,VW303CSHSML,843084189403,84.0,,,,,,Joggers,0,1,syncing
+1415,Bahia Boardshort | Palm,Palm / 34,V359PAL034,843084141579,35.0,17.7,,"","","",Boardshorts,0,1,syncing
+1415,Draft Short | Charcoal,Charcoal / L,V375CCLLRG,843084183302,74.0,,,,,,Shorts,6,1,syncing
+1415,Meta Pant - 30 | Charcoal,Charcoal / 32,V430RCCL032,843084136391,98.0,20.7,,"","","",Pants,1,1,syncing
+1415,Meta Pant - 34 | Navy,Navy / 33,V430-LNVY033,843084196647,98.0,20.7,,,,,Pants,0,1,syncing
+1415,Meta Pant - 30 | Charcoal,Charcoal / 30,V430RCCL030,843084136384,98.0,20.7,,"","","",Pants,0,1,syncing
+1415,Meta Pant - 30 | Charcoal,Charcoal / 36,V430RCCL036,843084136421,98.0,20.7,,"","","",Pants,0,1,syncing
+1415,Womens Ripstop Pant - Long | Charcoal,Charcoal / S,VW401-LCCLSML,840159733837,89.0,,,,,,Pants,0,1,syncing
+1415,Ripstop Climber Pant - Long | Khaki,Khaki / L,V412-LKHKLRG,840159733714,89.0,,,,,,Pants,0,1,syncing
+1415,Seascape Shorty | Terracotta,Terracotta / XS,VW363TERXSM,843084190645,44.0,,,,,,Shorts,0,1,syncing
+1415,Clementine Short | Oregano Woodblock,Oregano Woodblock / S,VW304OWBSML,843084189809,58.0,,,,,,Shorts,0,1,syncing
+1415,Clementine Short | Black,Black / XS,VW304BLKXSM,817718020561,58.0,11.6,,"","","",Shorts,0,1,syncing
+1415,Sunnyside Short | Burnt Clay,Burnt Clay / S,VW380BCYSML,840159734841,54.0,,,,,,Shorts,0,1,syncing
+1415,Catalina Crew | Natural,Natural / M,VW243NATMED,843084194780,48.0,14.16,14.16,,,,Tops,0,1,syncing
+1415,Catalina Crew | Natural,Natural / XL,VW243NATXLG,843084194803,48.0,14.16,14.16,,,,Tops,0,1,syncing
+1415,Catalina Crew | Ink,Ink / S,VW243INKSML,843084194728,48.0,14.16,14.16,,,,Tops,-1,1,syncing
+1415,Vital Crew | Charcoal,Charcoal / S,V245CCLSML,843084179640,68.0,,,,,,Tops,0,1,syncing
+1415,Laguna Lounge Pant | Heather Grey,Heather Grey / S,VW347HTGSML,843084114931,84.0,14.5,14.5,"","","",Pants,6,1,syncing
+1415,Ripstop Climber Pant - Long | Charcoal,Charcoal / L,V412-LCCLLRG,840159733592,89.0,,,,,,Pants,-1,1,syncing
+1415,Vital Short | Salt,Salt / M,V378SALMED,840159712092,64.0,,,,,,Shorts,1,4,syncing
+1415,Vital Short | Terracotta,Terracotta / M,V378TERMED,843084183715,64.0,,,,,,Shorts,5,4,syncing
+1415,Vital Short | Terracotta,Terracotta / L,V378TERLRG,843084183722,64.0,,,,,,Shorts,5,1,syncing

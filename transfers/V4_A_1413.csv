@@ -1,0 +1,22 @@
+Stock Transfer,Product,Title,SKU,Barcode,Retail Price,Cost,Average Cost,minimum_stock_quantity,reorder_point,Text 3,Product Type,Available,Quantity,Status
+1413,Womens Ripstop Pant | Copper,Copper / S,VW401COPSML,843084161423,89.0,17.15,17.15,"","","",Pants,-2,6,received
+1413,Transit Jogger | Navy,Navy / M,V417NVYMED,843084108824,89.0,18.2,18.2,"","","",Pants,0,1,received
+1413,Vital Crew | Terracotta,Terracotta / M,V245TERMED,843084179756,68.0,,,,,,Tops,0,1,syncing
+1413,Performance Jogger | Cerise Heather,Cerise Heather / S,VW303HCESML,843084160129,84.0,16.55,16.55,"","","",Joggers,0,1,syncing
+1413,Performance Jogger | Cerise Heather,Cerise Heather / L,VW303HCELRG,843084160143,84.0,16.55,16.55,"","","",Joggers,0,1,syncing
+1413,Womens Alpine Sherpa Jacket | Natural,Natural / XL,VW516NATXLG,843084162802,138.0,27.1,27.1,,,,Jackets & Hoodies,0,1,syncing
+1413,Transit Jogger | Black,Black / M,V417BLKMED,817718026006,89.0,18.2,18.2,"","","",Pants,0,1,syncing
+1413,Aspen Shirt Jacket | Heather Grey,Heather Grey / L,V237HTGLRG,843084165315,138.0,35.9,35.9,,,,Jackets & Hoodies,1,1,syncing
+1413,Everything Chino Pant | Black,Black / 33,V420BLK033,843084113651,112.0,22.15,22.15,"","","",Pants,-1,1,syncing
+1413,Daydream Crew | Burnt Clay Heather,Burnt Clay Heather / S,VW133HBCSML,843084186501,58.0,,,,,,Tops,0,1,syncing
+1413,Womens Ripstop Pant | Hazel,Hazel / S,VW401HZLSML,843084192052,89.0,17.15,17.15,,,,Pants,1,3,syncing
+1413,Womens Ripstop Pant | Hazel,Hazel / XS,VW401HZLXSM,843084192045,89.0,17.15,17.15,,,,Pants,1,1,syncing
+1413,Seaside Hoodie | Black,Black / XL,V242BLKXLG,843084165377,118.0,32.7,32.7,,,,Jackets & Hoodies,3,2,syncing
+1413,Performance Jogger | Cloud Heather,Cloud Heather / XS,VW303HCLXSM,843084160167,84.0,16.92,16.92,,,,Joggers,-1,1,syncing
+1413,Performance Jogger | Cloud Heather,Cloud Heather / S,VW303HCLSML,843084160174,84.0,16.92,16.92,,,,Joggers,3,1,syncing
+1413,Performance Jogger | Clay Heather,Clay Heather / XL,VW303HCAXLG,843084160105,84.0,16.92,16.92,,,,Joggers,0,4,syncing
+1413,Performance Jogger | Clay Heather,Clay Heather / L,VW303HCALRG,843084160099,84.0,16.92,16.92,,,,Joggers,0,5,syncing
+1413,Performance Jogger | Clay Heather,Clay Heather / M,VW303HCAMED,843084160082,84.0,16.92,16.92,,,,Joggers,2,3,syncing
+1413,Tavi Short | Grey Linen Texture,Grey Linen Texture / XS,VW361GRLXSM,843084150946,64.0,15.0,15.0,"","","",Shorts,0,6,syncing
+1413,Womens Ripstop Pant | Copper,Copper / M,VW401COPMED,843084161430,89.0,17.15,17.15,"","","",Pants,2,2,syncing
+1413,Lux Performance Tank | Spice Heather,Spice Heather / XL,VW108HSCXLG,843084157457,44.0,11.2,11.2,,,,Tanks,0,1,syncing

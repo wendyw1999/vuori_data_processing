@@ -1,0 +1,36 @@
+Stock Transfer,Product,Title,SKU,Barcode,Retail Price,Cost,Average Cost,minimum_stock_quantity,reorder_point,Text 3,Product Type,Available,Quantity,Status
+1418,Vital Crew | Charcoal,Charcoal / M,V245CCLMED,843084179657,68.0,,,,,,Tops,0,1,received
+1418,Catalina Crew | Natural,Natural / XS,VW243NATXSM,843084194766,48.0,14.16,14.16,,,,Tops,-1,1,received
+1418,Cape Short | Oregano Big Flower,Oregano Big Flower / M,V369OBFMED,843084172993,68.0,16.15,,,,,Boardshorts,0,1,received
+1418,Ripstop Climber Short | Dark Oregano,Dark Oregano / M,V370DORMED,843084182817,64.0,,,,,,Shorts,7,1,received
+1418,Transit Jogger | Black,Black / S,V417BLKSML,817718025993,89.0,18.2,18.2,"","","",Pants,0,1,received
+1418,Ripstop Climber Pant | Dark Copper,Dark Copper / XXL,V412DCOXXL,843084173204,62.0,16.15,16.15,,,,Pants,0,2,received
+1418,Women's V1 Logo Tee | White,White / XL,VW950WHTXLG,843084154876,27.0,8.0,8.0,"","","",Graphic Tees,0,1,received
+1418,Bishop Long-Sleeve Button-Down | Light Grey,Light Grey / S,V153LTGSML,843084126590,57.0,19.25,19.25,"","","",Tops,0,4,received
+1418,Tuvalu Tee | Copper,Copper / XXL,V101COPXXL,843084163533,34.0,12.25,12.25,,,,Tops,0,1,received
+1418,Long-Sleeve Ever Henley | Copper,Copper / S,V108COPSML,843084163540,51.0,13.55,13.55,,,,Tops,0,4,received
+1418,Strato Tech Tee | Salt Heather,Salt Heather / XXL,V126HSTXXL,843084118663,31.0,10.95,10.95,"","","",Tops,1,1,received
+1418,Marine Mock Neck | Terracotta,Terracotta / M,VW155TERMED,843084186761,68.0,,,,,,Water,0,1,received
+1418,Banks Short | Oxblood Linen Texture,Oxblood Linen Texture / M,V330XLTMED,843084166497,68.0,18.2,18.2,,,,Shorts,0,1,received
+1418,Performance Jogger | Cloud Heather,Cloud Heather / S,VW303HCLSML,843084160174,84.0,16.92,16.92,,,,Joggers,0,1,syncing
+1418,Stride Legging | Black,Black / L,VW429BLKLRG,840159711910,84.0,,,,,,Leggings,0,1,syncing
+1418,Sun Lover Tank | Putty,Putty / M,VW960PTYMED,843084175871,25.0,8.0,8.0,,,,Tanks,-1,1,syncing
+1418,All Day Romper | Black,Black / M,VW424BLKMED,840159711767,98.0,,,,,,Jumpsuits & Dresses,1,1,syncing
+1418,Bahia Boardshort | Black,Black / 34,V359BLK034,843084123506,69.0,17.7,,"","","",Boardshorts,0,1,syncing
+1418,Tavi Short | Grey Linen Texture,Grey Linen Texture / M,VW361GRLMED,843084150960,64.0,15.0,15.0,"","","",Shorts,4,1,syncing
+1418,Long-Sleeve Lux Tee | Cerise Heather,Cerise Heather / XS,VW167HCEXSM,843084158317,48.0,14.2,14.2,,,,Tops,0,1,syncing
+1418,Ripstop Climber Pant - Long | Khaki,Khaki / M,V412-LKHKMED,840159733707,89.0,,,,,,Pants,0,1,syncing
+1418,Halo Performance Hoodie | Navy Heather,Navy Heather / XL,VW201HNVXLG,843084111480,89.0,21.75,,"","","",Jackets & Hoodies,0,1,syncing
+1418,"Banks Short 5"" | Kelp Micro Dot",Kelp Micro Dot / S,V366KMDSML,843084182190,68.0,,,,,,Shorts,0,1,syncing
+1418,Aim Short | Khaki,Khaki / 38,V368KHK038,843084141876,74.0,17.0,17.0,"","","",Shorts,1,4,syncing
+1418,All Day Romper | Black,Black / XS,VW424BLKXSM,840159711743,98.0,,,,,,Jumpsuits & Dresses,1,1,syncing
+1418,All Day Romper | Black,Black / S,VW424BLKSML,840159711750,98.0,,,,,,Jumpsuits & Dresses,0,1,syncing
+1418,Ripstop Climber Pant | Sesame,Sesame / S,V412SESSML,843084184125,89.0,,,,,,Pants,0,2,syncing
+1418,Tavi Short | Oregano Splatter,Oregano Splatter / S,VW361OSPSML,843084161027,64.0,15.0,15.0,,,,Shorts,0,1,syncing
+1418,Cruise Boardshort | Charcoal Micro Dot,Charcoal Micro Dot / 32,V314CMD032,843084125531,48.0,18.15,,"","","",Boardshorts,1,1,syncing
+1418,Venture Track Jacket | Black Linen Texture,Black Linen Texture / XL,V536BKLXLG,843084185825,98.0,,,,,,Jackets & Hoodies,4,1,syncing
+1418,Long-Sleeve Lux Tee | Charcoal Heather,Charcoal Heather / M,VW167HCCMED,843084158287,68.0,14.2,14.2,,,,Tops,-8,1,syncing
+1418,Lux Performance Tank | Ink Heather,Ink Heather / XL,VW108HINXLG,843084131211,44.0,11.2,,"","","",Tanks,0,1,syncing
+1418,Ripstop Climber Pant - Long | Army,Army / M,V412-LARMMED,840159733462,89.0,,,,,,Pants,-6,1,syncing
+1418,Ripstop Climber Pant | Army,Army / M,V412ARMMED,817718026297,89.0,21.2,21.2,"","","",Pants,9,1,syncing
+1418,Stride Legging | Black,Black / S,VW429BLKSML,840159711897,84.0,,,,,,Leggings,3,1,syncing

@@ -1,0 +1,24 @@
+Product,Variant,SKU,Barcode,Shopify ID,Weight,Vendor,Product Type,Custom Text Field,Custom Date Field,Retail Price,Cost Price,Unfulfilled,On Order,Expected Stock,Actual Stock,Adjustment,Adjustment Cost
+Ace Polo | Indigo,Indigo / L,V164INDLRG,843084138227,31858308546663,6.72 oz,Vuori Clothing,Tops,"",,69.00,15.50,14,25,0,0,0,0.00
+Ace Polo | Indigo,Indigo / M,V164INDMED,843084138210,31858308513895,6.72 oz,Vuori Clothing,Tops,"",,69.00,15.50,3,15,4,4,0,0.00
+Ace Polo | Indigo,Indigo / S,V164INDSML,843084138203,31858308481127,6.72 oz,Vuori Clothing,Tops,"",,69.00,15.50,2,3,4,4,0,0.00
+Ace Polo | Indigo,Indigo / XL,V164INDXLG,843084138234,31858308579431,6.72 oz,Vuori Clothing,Tops,"",,69.00,15.50,1,23,3,3,0,0.00
+Ace Polo | Indigo,Indigo / XXL,V164INDXXL,843084138241,31858308612199,6.72 oz,Vuori Clothing,Tops,"",,69.00,15.50,1,1,2,2,0,0.00
+Ace Polo | Light Grey,Light Grey / M,V164LTGMED,843084138265,31858308120679,6.72 oz,Vuori Clothing,Tops,"",,69.00,15.50,2,9,6,6,0,0.00
+Ace Polo | Light Grey,Light Grey / S,V164LTGSML,843084138258,31858308087911,6.72 oz,Vuori Clothing,Tops,"",,69.00,15.50,1,3,2,2,0,0.00
+Ace Polo | Light Grey,Light Grey / XL,V164LTGXLG,843084138289,31858308186215,6.72 oz,Vuori Clothing,Tops,"",,69.00,15.50,4,12,6,6,0,0.00
+Ace Polo | Light Grey,Light Grey / XXL,V164LTGXXL,843084138296,31858308218983,6.72 oz,Vuori Clothing,Tops,"",,69.00,15.50,2,1,2,1,-1,-15.50
+Ace Polo | Oregano,Oregano / L,V164ORELRG,843084164110,32651589288039,6.72 oz,Vuori Clothing,Tops,,,69.00,15.50,6,3,3,3,0,0.00
+Ace Polo | Oregano,Oregano / M,V164OREMED,843084164103,32651589255271,6.72 oz,Vuori Clothing,Tops,,,69.00,15.50,1,9,5,5,0,0.00
+Ace Polo | Oregano,Oregano / S,V164ORESML,843084164097,32651589222503,6.72 oz,Vuori Clothing,Tops,,,69.00,15.50,0,0,5,5,0,0.00
+Ace Polo | Oregano,Oregano / XL,V164OREXLG,843084164127,32651589320807,6.72 oz,Vuori Clothing,Tops,,,69.00,15.50,3,14,3,3,0,0.00
+Ace Polo | Oregano,Oregano / XXL,V164OREXXL,843084164134,32651589353575,6.72 oz,Vuori Clothing,Tops,,,69.00,15.50,1,0,2,2,0,0.00
+Daily Bra | Black,Black / L,VW158BLKLRG,843084150328,31858256543847,2.72 oz,Vuori Clothing,Bra,"",,48.00,12.40,5,7,2,2,0,0.00
+Daily Bra | Black,Black / M,VW158BLKMED,843084150311,31858256511079,2.72 oz,Vuori Clothing,Bra,"",,48.00,12.40,10,22,3,3,0,0.00
+Daily Bra | Black,Black / S,VW158BLKSML,843084150304,31858256478311,2.72 oz,Vuori Clothing,Bra,"",,48.00,12.40,8,7,7,7,0,0.00
+Daily Bra | Black,Black / XL,VW158BLKXLG,843084150335,31858256576615,2.72 oz,Vuori Clothing,Bra,"",,48.00,12.40,2,1,3,3,0,0.00
+Daily Bra | Black,Black / XS,VW158BLKXSM,843084150298,31858256445543,2.72 oz,Vuori Clothing,Bra,"",,48.00,12.40,1,0,4,4,0,0.00
+Daily Bra | Oregano,Oregano / L,VW158ORELRG,843084157846,32651559600231,2.72 oz,Vuori Clothing,Bra,,,48.00,12.40,2,4,2,2,0,0.00
+Daily Bra | Oregano,Oregano / M,VW158OREMED,843084157839,32651559567463,2.72 oz,Vuori Clothing,Bra,,,48.00,12.40,7,7,3,4,1,12.40
+Daily Bra | Oregano,Oregano / XL,VW158OREXLG,843084157853,32651559632999,2.72 oz,Vuori Clothing,Bra,,,48.00,12.40,1,1,4,4,0,0.00
+Daily Bra | Oregano,Oregano / XS,VW158OREXSM,843084157815,32651559501927,2.72 oz,Vuori Clothing,Bra,,,48.00,12.40,3,1,3,4,1,12.40

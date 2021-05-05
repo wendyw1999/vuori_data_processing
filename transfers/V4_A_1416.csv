@@ -1,0 +1,11 @@
+Stock Transfer,Product,Title,SKU,Barcode,Retail Price,Cost,Average Cost,minimum_stock_quantity,reorder_point,Text 3,Product Type,Available,Quantity,Status
+1416,Womens Ripstop Wideleg | Hazel,Hazel / XS,VW416HZLXSM,843084176649,84.0,,,,,,Pants,0,9,received
+1416,Womens Ripstop Wideleg | Hazel,Hazel / S,VW416HZLSML,843084176656,84.0,,,,,,Pants,0,7,received
+1416,Womens Ripstop Wideleg | Hazel,Hazel / M,VW416HZLMED,843084176663,84.0,,,,,,Pants,0,9,received
+1416,Womens Ripstop Wideleg | Hazel,Hazel / L,VW416HZLLRG,843084176670,84.0,,,,,,Pants,0,7,received
+1416,Womens Ripstop Wideleg | Hazel,Hazel / XL,VW416HZLXLG,843084176687,84.0,,,,,,Pants,0,3,syncing
+1416,Womens Ripstop Wideleg | Army,Army / XS,VW416ARMXSM,843084161911,84.0,,,,,,Pants,0,5,syncing
+1416,Womens Ripstop Wideleg | Army,Army / S,VW416ARMSML,843084161928,84.0,,,,,,Pants,1,8,syncing
+1416,Womens Ripstop Wideleg | Army,Army / M,VW416ARMMED,843084161935,84.0,,,,,,Pants,0,5,syncing
+1416,Womens Ripstop Wideleg | Army,Army / L,VW416ARMLRG,843084161942,84.0,,,,,,Pants,0,5,syncing
+1416,Womens Ripstop Wideleg | Army,Army / XL,VW416ARMXLG,843084161959,84.0,,,,,,Pants,0,2,syncing

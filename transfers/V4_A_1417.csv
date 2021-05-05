@@ -1,0 +1,55 @@
+Stock Transfer,Product,Title,SKU,Barcode,Retail Price,Cost,Average Cost,minimum_stock_quantity,reorder_point,Text 3,Product Type,Available,Quantity,Status
+1417,Cruise Boardshort | Charcoal Micro Dot,Charcoal Micro Dot / 36,V314CMD036,843084125562,48.0,18.15,,"","","",Boardshorts,0,2,received
+1417,Ponto Track Jacket | Charcoal Heather,Charcoal Heather / L,V234HCCLRG,843084139323,53.0,29.56,29.56,"","","",Jackets & Hoodies,0,2,received
+1417,Kore Short | Grey Herringbone,Grey Herringbone / L,V302GHELRG,843084165803,48.0,17.85,17.85,,,,Shorts,0,2,received
+1417,Bella Bra | Charcoal Big Flower,Charcoal Big Flower / S,VW168HBFSML,843084158423,41.0,18.0,18.0,,,,Bra,-1,2,received
+1417,Ridgeline Tee | Black,Black / XXL,V949BLKXXL,843084154029,22.0,8.2,8.2,"","","",Graphic Tees,-1,1,received
+1417,Stockton Short | Grey Camo,Grey Camo / XL,V346CMOXLG,843084120154,76.0,18.7,,"","","",Shorts,0,1,received
+1417,Ponto Performance Pant | Blackened Green Heather,Blackened Green Heather / M,V418HBGMED,843084167913,67.0,21.37,21.37,,,,Pants,0,1,received
+1417,Kore Short | Oxblood Texture Block,Oxblood Texture Block / XL,V302OTBXLG,843084165933,48.0,17.85,17.85,,,,Shorts,0,1,received
+1417,Kore Short | Grey Herringbone,Grey Herringbone / M,V302GHEMED,843084165797,48.0,17.85,17.85,,,,Shorts,1,1,received
+1417,Cape Short | Indigo Watercolor Camo,Indigo Watercolor Camo / S,V369IWCSML,843084141937,48.0,16.15,,"","","",Boardshorts,0,1,received
+1417,Halo Essential Hoodie | Cerise Heather,Cerise Heather / S,VW226HCESML,840159714041,59.0,19.85,19.85,,,,Jackets & Hoodies,0,1,syncing
+1417,Lizette Crop | White,White / M,VW148WHTMED,843084144334,24.0,11.13,,"","","",Tanks,0,1,syncing
+1417,Trees & Seas Tee | Solid White,Solid White / M,VW927WHTMED,843084105625,14.0,8.0,,"","","",Tanks,-1,1,syncing
+1417,The Rise The Shine Tank | Mauve,Mauve / M,VW952MVEMED,843084175529,25.0,8.0,,,,,Tanks,0,1,syncing
+1417,Cruise Boardshort | Palm Scribble,Palm Scribble / 36,V314PSC036,843084140299,48.0,18.15,,"","","",Boardshorts,0,1,syncing
+1417,Bishop Long-Sleeve Button-Down | Light Grey,Light Grey / L,V153LTGLRG,843084126613,57.0,19.25,19.25,"","","",Tops,0,1,syncing
+1417,Catalina Crew | Hazel,Hazel / S,VW243HZLSML,840159714195,48.0,14.16,14.16,,,,Tops,1,1,syncing
+1417,Energy Top | Cerise Heather,Cerise Heather / S,VW123HCESML,843084176236,36.0,10.7,10.7,,,,Tanks,0,1,syncing
+1417,Elevation Bra | Cerise Heather,Cerise Heather / XS,VW136HCEXSM,843084157617,41.0,14.2,14.2,,,,Bra,0,1,syncing
+1417,Elevation Bra | Cerise Heather,Cerise Heather / S,VW136HCESML,843084157624,41.0,14.2,14.2,,,,Bra,0,1,syncing
+1417,Balboa Pant | Cocoa,Cocoa / S,V406CCOSML,843084167609,59.0,14.5,14.5,,,,Pants,0,1,syncing
+1417,Crescent Half Zip | Dusk Heather,Dusk Heather / L,VW220HDSLRG,843084158942,48.0,13.35,13.35,,,,Jackets & Hoodies,0,1,syncing
+1417,Kore Short | Grey Herringbone,Grey Herringbone / XXL,V302GHEXXL,843084165827,48.0,17.85,17.85,,,,Shorts,0,1,syncing
+1417,Crescent Half Zip | Spice Heather,Spice Heather / M,VW220HSCMED,843084158980,48.0,13.35,13.35,,,,Jackets & Hoodies,0,1,syncing
+1417,Bahia Boardshort | Sea,Sea / 34,V359SEA034,843084123568,28.0,17.7,,"","","",Boardshorts,-1,1,syncing
+1417,Clean Elevation Legging | Charcoal Big Flower,Charcoal Big Flower / M,VW409HBFMED,843084161485,62.0,20.55,20.55,,,,Leggings,0,1,syncing
+1417,Strato Tech Tee | Copper Heather,Copper Heather / S,V126HCOSML,843084163793,31.0,10.95,10.95,,,,Tops,0,1,syncing
+1417,Kore Short | Oxblood Texture Block,Oxblood Texture Block / S,V302OTBSML,843084165902,48.0,17.85,17.85,,,,Shorts,1,1,syncing
+1417,Ponto Performance Crew | Dove Grey Heather,Dove Grey Heather / XXL,V224HDGXXL,843084139248,53.0,24.8,24.8,"","","",Tops,0,1,syncing
+1417,Cruise Boardshort | Charcoal Micro Dot,Charcoal Micro Dot / 32,V314CMD032,843084125531,48.0,18.15,,"","","",Boardshorts,0,1,syncing
+1417,Catalina Crew | Natural,Natural / M,VW243NATMED,843084194780,48.0,14.16,14.16,,,,Tops,-1,1,syncing
+1417,Clementine Short | Clay Big Flower,Clay Big Flower / S,VW304CBFSML,843084160228,41.0,11.45,11.45,,,,Shorts,0,1,syncing
+1417,Performance Jogger | Melon Heather,Melon Heather / M,VW303HMLMED,843084145232,67.0,16.92,,"","","",Joggers,-1,1,syncing
+1417,Cruise Boardshort | Indigo Color Block,Indigo Color Block / 33,V314ICB033,843084140039,48.0,18.15,,"","","",Boardshorts,1,1,syncing
+1417,Saltwater Anorak | Black,Black / M,VW511BLKMED,843084152940,55.0,30.0,,"","","",Jackets & Hoodies,1,1,syncing
+1417,Marine Mock Neck | Indigo Vintage Floral,Indigo Vintage Floral / M,VW155VFIMED,843084149865,20.0,16.85,,"","","",Water,0,1,syncing
+1417,Strato Tech Tee | Salt Heather,Salt Heather / S,V126HSTSML,843084118625,31.0,10.95,10.95,"","","",Tops,-1,1,syncing
+1417,Banks Short | Oregano Splatter,Oregano Splatter / L,V330OSPLRG,843084166442,48.0,18.2,18.2,,,,Shorts,0,1,syncing
+1417,Rhythm Tank | Grey,Grey / L,VW144GRYLRG,843084149575,31.0,10.5,,"","","",Tanks,-1,1,syncing
+1417,Kore Short | Oxblood Texture Block,Oxblood Texture Block / M,V302OTBMED,843084165919,48.0,17.85,17.85,,,,Shorts,-1,1,syncing
+1417,Sequoia Lounge Pant | Heather Grey,Heather Grey / XL,VW321HTGXLG,843084112081,47.0,18.45,,"","","",Pants,0,1,syncing
+1417,Pace High Rise Legging | Ocean Texture,Ocean Texture / S,VW329OCTSML,843084160822,62.0,20.45,20.45,,,,Leggings,0,1,syncing
+1417,Land to Sea Tee | Indigo Heather,Indigo Heather / L,V952HTILRG,843084186013,22.0,8.2,8.2,,,,Graphic Tees,0,1,syncing
+1417,Jackson Hoodie | Black,Black / M,V213BLKMED,817718025801,76.0,19.0,19.0,"","","",Jackets & Hoodies,0,1,syncing
+1417,Kore Short | Navy Camo,Navy Camo / S,V302NCMSML,843084128044,34.0,17.85,,"","","",Shorts,0,1,syncing
+1417,Crest Short-Sleeve Button-Down | Salt Arrow,Salt Arrow / L,V150SARLRG,843084137978,39.0,13.05,13.05,"","","",Tops,0,1,syncing
+1417,Trees to Seas Tank | White,White / M,VW956WHTMED,843084175628,25.0,8.0,,,,,Tanks,1,1,syncing
+1417,Elevation Performance Legging | Cerise Heather,Cerise Heather / L,VW325HCELRG,843084160747,62.0,16.35,16.35,,,,Leggings,0,1,syncing
+1417,Tuvalu Tee | Copper,Copper / L,V101COPLRG,843084163519,34.0,12.25,12.25,,,,Tops,0,1,syncing
+1417,Dunes Tech Tee | Heather Grey,Heather Grey / L,V179HTGLRG,843084155156,24.0,,,,,,Tops,0,1,syncing
+1417,Halo Essential Hoodie | Cerise Heather,Cerise Heather / M,VW226HCEMED,840159714058,59.0,19.85,19.85,,,,Jackets & Hoodies,0,1,syncing
+1417,Strato Tech Tee | Salt Heather,Salt Heather / XXL,V126HSTXXL,843084118663,31.0,10.95,10.95,"","","",Tops,0,1,syncing
+1417,Pace High Rise Legging | Cerise,Cerise / XL,VW329CERXLG,843084160808,62.0,20.45,20.45,,,,Leggings,0,1,syncing
+1417,Banks Short | Cocoa Stripe,Cocoa Stripe / M,V330COSMED,843084166312,48.0,18.2,,,,,Shorts,0,1,syncing

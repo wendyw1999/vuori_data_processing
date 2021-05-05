@@ -1,0 +1,6 @@
+Stock Transfer,Product,Title,SKU,Barcode,Retail Price,Cost,Average Cost,minimum_stock_quantity,reorder_point,Text 3,Product Type,Available,Quantity,Status
+1419,Everything Chino Pant | Black,Black / 38,V420BLK038,843084113682,112.0,22.15,22.15,"","","",Pants,1,5,received
+1419,Everything Chino Pant | Black,Black / 36,V420BLK036,843084113675,112.0,22.15,22.15,"","","",Pants,3,3,received
+1419,Everything Chino Pant | Black,Black / 34,V420BLK034,843084113668,112.0,22.15,22.15,"","","",Pants,0,3,received
+1419,Everything Chino Pant | Black,Black / 32,V420BLK032,843084113644,112.0,22.15,22.15,"","","",Pants,2,2,received
+1419,Everything Chino Pant | Ink,Ink / 36,V420INK036,843084168064,112.0,28.8,28.8,,,,Pants,0,1,received
